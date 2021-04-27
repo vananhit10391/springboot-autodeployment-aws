@@ -1,4 +1,3 @@
- #!/usr/bin/env bash
 FROM openjdk:11
 ARG JAR_FILE=build/libs/*.jar
 COPY ${JAR_FILE} springboot-autodeployment-aws.jar
