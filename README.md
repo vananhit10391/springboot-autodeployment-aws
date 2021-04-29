@@ -1,6 +1,6 @@
 # springboot-autodeloyment-aws
-  1. Deploy spring app to EC2
-  2. Build CI/CD jenkins deploy spring app to EC2
+    1. Deploy spring app to EC2
+    2. Build CI/CD jenkins deploy spring app to EC2
 #### 1. Follow Deploy Spring App To Amazon EC2
      * Steps by steps:
         1. Pull source code from Git
