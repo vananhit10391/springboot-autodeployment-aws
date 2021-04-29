@@ -30,7 +30,7 @@
              + Cluster
              + EC2
 #### 2. Build CI/CD jenkins deploy spring app to EC2
-    Refer link:
+     * Refer link:
         https://medium.com/@KTree_Blog/auto-deployment-of-spring-boot-applications-to-aws-ecs-with-jenkins-3ef5245f5e7e
         
    
