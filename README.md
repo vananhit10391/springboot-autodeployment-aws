@@ -11,7 +11,7 @@
         6. Pull docker image from Docker Hub
         7. Create Amazon ECR repository
         8. Push docker image (at step 6) to Amazon ECR repository
-        9. At Amazon ECS: define Task Definition for docker image at step 8 (Setting port to run app)
+        9. At Amazon ECS: define Task Definition for docker image at step 8 (Setting port 8005 to run app)
         10. At Amazon ECS: create Cluster (auto create new Amazon EC2)
         11. Setting and testing connect EC2 (setting port at Security Groups open port 22, 8005)
         12. At Cluster: run Task Definition
