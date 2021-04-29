@@ -20,3 +20,12 @@
         1. Docker image build at local (chip apple M1) can't run on EC2 (Linux/Unix).
            => Push docker image to Docker Hub.
               Then, pull dock image from Docker Hub and push to Amazon Elastic Registry(ECR)
+     * Note:
+        1. Git
+        2. Docker
+        3. Amazon Web Service
+           - Amazon Elastic Registry (ECR)
+           - Amazon Elastic Service (ECS)
+             + Task definition
+             + Cluster
+             + EC2
