@@ -20,6 +20,7 @@
         1. Docker image build at local (chip apple M1) can't run on EC2 (Linux/Unix).
            => Push docker image to Docker Hub.
               Then, pull dock image from Docker Hub and push to Amazon Elastic Registry(ECR)
+           (Build Multi-Architecture Docker Images with BuildX | Deploy containers to x86 and ARM!)
      * Note:
         1. Git
         2. Docker
